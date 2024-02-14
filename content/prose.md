@@ -1,6 +1,6 @@
 ---
 title: "Prose"
-date: 2021-12-18T11:10:36+08:00
+date: 2000-12-18T11:10:36+08:00
 draft: false
 language: en
 description: Tailwind Typography @tailwindcss/typography & Prose
@@ -110,7 +110,7 @@ Class	Body font size
 | prose-lg | 1.125rem (18px) |
 | prose-xl | 1.25rem (20px) |
 | prose-2xl | 1.5rem (24px) |
-	
+
 These can be used in combination with Tailwind’s breakpoint modifiers to change the overall font size of a piece of content at different viewport sizes:
 
 ```
@@ -156,7 +156,7 @@ Use element modifiers to customize the style of individual elements in your cont
 This makes it easy to do things like style links to match your brand, add a border radius to images, and tons more.
 
 ### Here’s a complete list of available element modifiers:
-	
+
 | Modifier     | Target |
 | ----------- | ----------- |
 | prose-headings:{utility}  | h1, h2, h3, h4, th |
