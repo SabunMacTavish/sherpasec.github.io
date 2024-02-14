@@ -56,7 +56,7 @@ params:
 
   p1:
     heading: "Our mission"
-    image: "images/pages/DALL-E-IMG1.webp"
+    image: "images/pages/UOW_quiz_winners.png"
     content:
       - text: "Facilitate meaningful collaborations between students and cybersecurity professionals to create a dynamic and inclusive community."
       - text: "Empower the next generation of cybersecurity experts by promoting the exchange of knowledge, skills, and insights between students and working professionals."
@@ -82,14 +82,14 @@ params:
     heading: "Past Events"
     content:
       - text: "Our past events including meetups, workshops, and etc."
-  p5:
-    heading: "Stay Up to Date"
-    content:
-      - text: "Subscribe to our newsletter to stay up to date with the latest news and events."
-    action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
+  # p5:
+  #   heading: "Stay Up to Date"
+  #   content:
+  #     - text: "Subscribe to our newsletter to stay up to date with the latest news and events."
+  #   action: "#"
+  #   label: "Email address"
+  #   placeholder: "Enter your email"
+  #   button: "Notify me"
 
   social_media:
     github:
@@ -103,7 +103,7 @@ params:
       url: 'https://instagram.com/'
     twitter:
       enabled: true
-      url: '@sherpasecmy'
+      url: 'https://twitter.com/@sherpasecmy'
     linkedin:
       enabled: true
       url: 'https://www.linkedin.com/company/sherpasec/'
