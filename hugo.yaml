@@ -48,7 +48,7 @@ markup:
 params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/SHERPASEC LOGO_WHITE.svg
+  og_image: /images/SHERPASEC_LOGO_WHITE.svg
   moto: "Uniting Minds, Empowering Security"
   description: "A Malaysian volunteer-based cybersecurity community aiming to create a sustainable cybersecurity ecosystem."
   disable_theme_toggle: false
