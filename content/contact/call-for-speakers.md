@@ -7,4 +7,4 @@ description: Call for Speakers Form
 tags: Contact
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeG5kX_Dq-LhF509G2Rvr5enl0yJzEhQd-M9IXcYbW5xikIAQ/viewform?embedded=true" width="640" height="1656" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://bit.ly/sherpasec-speaker" width="640" height="1656" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
