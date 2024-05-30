@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://sherpasec.github.io/"
+            --baseURL "https://sherpasec.org/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
@@ -69,7 +69,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://sherpasec.github.io/" # ${{ steps.deployment.outputs.page_url }}
+      url: "https://sherpasec.org/" # ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
