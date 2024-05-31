@@ -19,14 +19,13 @@
                 <div class="col-span-6">
                     {{ $hero := resources.GetMatch "images/pages/SherpaSec_Logo_769.webp" }}
 
-                    {{ $thumb := ($hero.Fill "400x400 webp q90") }}
-                    {{ $large := ($hero.Fill "576x576 webp q90") }}
+                    {{ $thumb := ($hero.Fill "400x420 webp q90") }}
+                    {{ $large := ($hero.Fill "1100x1300 webp q90") }}
 
                     <img srcset="
                             {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                            {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}"
-                        width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
-                </div>
+                            {{- with $large.RelPermalink -}}, {{.}} 1300w{{- end -}}" src="{{ $hero.RelPermalink }}"
+                        width="50%" height="" alt="TailBliss Hero" class="w-40 max-w-xl mx-auto rounded-lg" />
             </div>
         </div>
     </div>

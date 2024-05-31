@@ -56,14 +56,14 @@ params:
 
   p1:
     heading: "Our mission"
-    image: "images/pages/UOW_quiz_winners.png"
+    image: "images/pages/IMG_4951.jpg"
     content:
       - text: "Facilitate meaningful collaborations between students and cybersecurity professionals to create a dynamic and inclusive community."
       - text: "Empower the next generation of cybersecurity experts by promoting the exchange of knowledge, skills, and insights between students and working professionals."
       - text: "Build a foundation for a secure digital future by bridging the gap between academia and industry, ensuring a seamless transition for students into the cybersecurity workforce."
   p2:
     heading: "Community Call"
-    image: "images/pages/DALL-E-IMG7.webp"
+    image: "images/pages/IMG_1959.jpg"
     content:
       - text: "Our vibrant community is eagerly seeking speakers from all walks of life, embracing diversity in age and experience. Whether you're a seasoned expert or a fresh voice, we invite you to share your insights and passion with us. Additionally, we're actively scouting for venues to host our events, fostering an environment where ideas can flourish and connections can be forged. Together, through volunteering as speakers, we believe in shaping our community and creating meaningful dialogue that enriches us all. Join us on this journey of collaboration and empowerment. <br><br> For those interested in getting involved or learning more about opportunities to contribute, we encourage you to explore our 'Contact' section for additional information. Join us as we embark on this inspiring journey of collaboration, growth, and empowerment."
   p3:
