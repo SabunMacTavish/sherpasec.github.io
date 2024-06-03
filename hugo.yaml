@@ -68,7 +68,7 @@ params:
       - text: "Our vibrant community is eagerly seeking speakers from all walks of life, embracing diversity in age and experience. Whether you're a seasoned expert or a fresh voice, we invite you to share your insights and passion with us. Additionally, we're actively scouting for venues to host our events, fostering an environment where ideas can flourish and connections can be forged. Together, through volunteering as speakers, we believe in shaping our community and creating meaningful dialogue that enriches us all. Join us on this journey of collaboration and empowerment. <br><br> For those interested in getting involved or learning more about opportunities to contribute, we encourage you to explore our 'Contact' section for additional information. Join us as we embark on this inspiring journey of collaboration, growth, and empowerment."
   p3:
     heading: "Our partners and sponsors"
-    image: "images/pages/DALL-E-IMG5.webp"
+    image: "images/pages/IMG-20230713.jpg"
     content:
       - text: "SherpaSec is supported by dedicated sponsors and community partners, enabling us to deliver valuable content and services to our audience. Together, we strive to build a stronger, more connected community."
     links:
@@ -76,8 +76,8 @@ params:
         url: "/community-partners"
     logos:
       - identifier: a
-        image: "images/global/DALL-E-IMG5.webp"
-        alt: "Company_Logo_Example"
+        image: "images/pages/IMG-20230713.jpg"
+        alt: "SHwithEmil"
   p4:
     heading: "Past Events"
     content:
