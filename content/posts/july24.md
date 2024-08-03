@@ -1,7 +1,6 @@
 ---
 title: "Meetup - July 2024"
 date: 2024-07-24
-draft: true
 language: en
 featured_image: ../assets/images/featured/july24.png
 summary: 'Local cybersecurity meetup featured two standout speakers: the first provided insights into creating an AI assistant, while the second discussed AI role in fraud detection'
