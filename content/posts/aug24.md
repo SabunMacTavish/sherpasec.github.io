@@ -2,7 +2,7 @@
 title: "Meetup - August 2024"
 date: 2024-08-22
 language: en
-featured_image: ../assets/images/featured/aug24.JPG
+featured_image: ../assets/images/featured/aug24.jpg
 summary: 'Local cybersecurity meetup featured two standout speakers: the first provided insights into CTFs, while the second discussed why criminals are a step ahead'
 description: 'Local cybersecurity meetup featured two standout speakers: the first provided insights into CTFs, while the second discussed why criminals are a step ahead'
 author: SherpaSec
