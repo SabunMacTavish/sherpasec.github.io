@@ -1,0 +1,205 @@
+<!doctype html><html lang=en><head><meta http-equiv=Content-Type content="text/html" charset=UTF-8><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=apple-touch-icon sizes=180x180 href=https://sherpasec.org/favicon/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=https://sherpasec.org/favicon/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=https://sherpasec.org/favicon/favicon-16x16.png><link rel=manifest href=https://sherpasec.org/favicon/site.webmanifest><link rel=mask-icon href=https://sherpasec.org/favicon/safari-pinned-tab.svg color=#5bbad5><meta name=msapplication-TileColor content="#da532c"><meta name=theme-color content="#ffffff"><title itemprop=name>Prose | SherpaSec
+</title><meta name=description content="Tailwind Typography @tailwindcss/typography & Prose"><meta property="og:title" content="Prose | SherpaSec"><meta name=twitter:title content="Prose | SherpaSec"><meta itemprop=name content="Prose | SherpaSec"><meta name=application-name content="Prose | SherpaSec"><meta property="og:description" content="Tailwind Typography @tailwindcss/typography & Prose"><meta property="og:site_name" content="SherpaSec"><meta property="og:url" content="https://sherpasec.org/prose/"><meta property="og:locale" content="en"><meta property="og:image" content="/../assets/images/featured/SHERPASEC LOGO_WHITE.png"><meta property="og:image:secure_url" content="https://sherpasec.org/assets/images/featured/SHERPASEC%20LOGO_WHITE.png"><meta property="og:type" content="article"><script>localStorage.getItem("color-theme")==="dark"||!("color-theme"in localStorage)&&window.matchMedia("(prefers-color-scheme: dark)").matches?document.documentElement.classList.add("dark"):document.documentElement.classList.remove("dark")</script><link rel=stylesheet href="/css/style.min.b49fe16b3f1c27f4488fe501a7ff41a17bfe8c429835e911063f0d9ca72e14f0.css" integrity="sha256-tJ/haz8cJ/RIj+UBp/9BoXv+jEKYNekRBj8NnKcuFPA="></head><body class="bg-zinc-100 dark:bg-gray-800"><div class="top-0 z-50 w-full text-gray-200 bg-gray-900 border-2 border-gray-900 md:sticky border-b-stone-200/10"><div x-data="{ open: false }" class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8"><div class="flex flex-row items-center justify-between p-4"><a href=https://sherpasec.org/ class="flex text-gray-100 transition duration-1000 ease-in-out group"><img src=https://sherpasec.org/images/site-logo.svg class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="SherpaSec Logo"><div class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">SherpaSec</div></a><button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open" role=navigation aria-expanded=false aria-label=Main aria-controls=menuItems><svg fill="currentcolor" viewBox="0 0 20 20" class="w-6 h-6"><path x-show="!open" fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4A1 1 0 013 5zm0 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm6 5a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z" clip-rule="evenodd"/><path x-show="open" fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414.0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"/></svg></button></div><nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row"><a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline" href=https://sherpasec.org/about/ title=About>About</a><div @click.away="open = false" class=relative x-data="{ open: false }"><button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline">
+<span>Categories</span><svg fill="currentcolor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414.0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414.0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"/></svg></button><div x-show=open x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="absolute right-0 z-30 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48"><div class="px-2 py-2 text-primary-900 bg-white rounded-md shadow"><a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline" href=https://sherpasec.org/community-partners>Community Partners</a>
+<a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline" href=https://sherpasec.org/categories/past-events/>Past Events</a></div></div></div><a class="px-4 py-2 mt-2 text-sm font-semibold rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-700 focus:outline-none focus:shadow-outline" href=https://sherpasec.org/sherpactf24/ title="SherpaCTF 2024">SherpaCTF 2024</a><div @click.away="open = false" class=relative x-data="{ open: false }"><button @click="open = !open" class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline">
+<span>Contact</span><svg fill="currentcolor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414.0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414.0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"/></svg></button><div x-show=open x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="absolute right-0 z-30 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48"><div class="px-2 py-2 text-primary-900 bg-white rounded-md shadow"><a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline" href=https://sherpasec.org/contact/call-for-speakers>Call for Speakers</a>
+<a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline" href=https://sherpasec.org/contact/call-for-venue>Call for Venue</a>
+<a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 hover:text-white focus:text-white hover:bg-primary-600 focus:bg-primary-600 focus:outline-none focus:shadow-outline" href=https://sherpasec.org/contact/contact-us>Contact Us</a></div></div></div><button id=theme-toggle type=button class="p-2 text-sm text-gray-500 rounded-lg md: dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 md:ml-2 max-w-5 xs:hidden"><svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentcolor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001.0 1010.586 10.586z"/></svg><svg id="theme-toggle-light-icon" class="hidden w-5 h-5" fill="currentcolor" viewBox="0 0 20 20" aria-label="Dark or Light Mode" xmlns="http://www.w3.org/2000/svg"><path d="M10 2a1 1 0 011 1v1A1 1 0 119 4V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707A1 1 0 1113.536 5.05l.707-.707a1 1 0 011.414.0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707A1 1 0 004.343 5.757l.707.707zm1.414 8.486-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z" fill-rule="evenodd" clip-rule="evenodd"/></svg></button></nav></div></div><article><header class="mb-4 bg-primary-600"><span class=py-96><h1 class="py-16 text-5xl font-black text-center text-white capitalize">Prose</h1></span></header><div class="max-w-4xl mx-auto mt-8 mb-2"><div class=px-6><img src=https://sherpasec.org/../assets/images/featured/SHERPASEC%20LOGO_WHITE_hu9659427c1dd5283ecc2bf763fc2548d9_48515_1500x0_resize_q80_h2_box_3.webp srcset=", /../assets/images/featured/SHERPASEC%20LOGO_WHITE_hu9659427c1dd5283ecc2bf763fc2548d9_48515_400x0_resize_q80_h2_box_3.webp 400w, /../assets/images/featured/SHERPASEC%20LOGO_WHITE_hu9659427c1dd5283ecc2bf763fc2548d9_48515_550x0_resize_q80_h2_box_3.webp 550w, /../assets/images/featured/SHERPASEC%20LOGO_WHITE_hu9659427c1dd5283ecc2bf763fc2548d9_48515_900x0_resize_q80_h2_box_3.webp 768w, /../assets/images/featured/SHERPASEC%20LOGO_WHITE_hu9659427c1dd5283ecc2bf763fc2548d9_48515_1500x0_resize_q80_h2_box_3.webp 1100w" class="object-fill overflow-hidden rounded-lg shadow-lg ring-4 ring-zinc-300/40 dark:ring-gray-900/40 shadow-neutral-100/20 dark:shadow-neutral-800/40" width=100% alt></div></div><div class="max-w-2xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white"><h2 id=tailwindcsstypography>@tailwindcss/typography</h2><p><a href=https://github.com/tailwindlabs/tailwindcss-typography>View on GitHub</a>!</p><p>Beautiful typographic defaults for HTML you don&rsquo;t control.</p><p>The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.</p><p>Tailwind CSS IntelliSense extension for Visual Studio Code</p><pre tabindex=0><code>&lt;article class=&#34;prose lg:prose-xl&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><p>To see what it looks like in action, check out our <a href="https://play.tailwindcss.com/uj1vGACRJA?layout=preview">live demo</a> on Tailwind Play.
+​</p><h2 id=installation>Installation</h2><h3 id=install-the-plugin-from-npm>Install the plugin from npm:</h3><pre tabindex=0><code>npm install -D @tailwindcss/typography
+</code></pre><p>Then add the plugin to your tailwind.config.js file: tailwind.config.js</p><pre tabindex=0><code>module.exports = {
+  theme: {
+    // ...
+  },
+  plugins: [
+    require(&#39;@tailwindcss/typography&#39;),
+    // ...
+  ],
+}
+</code></pre><h2 id=basic-usage>Basic usage</h2><p>Now you can use the prose classes to add sensible typography styles to any vanilla HTML:</p><pre tabindex=0><code>&lt;article class=&#34;prose lg:prose-xl&#34;&gt;
+  &lt;h1&gt;Garlic bread with cheese: What the science tells us&lt;/h1&gt;
+  &lt;p&gt;
+    For years parents have espoused the health benefits of eating garlic bread with cheese to their
+    children, with the food earning such an iconic status in our culture that kids will often dress
+    up as warm, cheesy loaf for Halloween.
+  &lt;/p&gt;
+  &lt;p&gt;
+    But a recent study shows that the celebrated appetizer may be linked to a series of rabies cases
+    springing up around the country.
+  &lt;/p&gt;
+&lt;/article&gt;
+</code></pre><h2 id=choosing-a-gray-scale>Choosing a gray scale</h2><p>This plugin includes a modifier class for each of the five gray scales Tailwind includes by default so you can easily style your content to match the grays you’re using in your project.</p><pre tabindex=0><code>&lt;article class=&#34;prose prose-slate&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><h2 id=here-are-the-classes-that-are-generated-using-a-totally-default-tailwind-css-v20-build>Here are the classes that are generated using a totally default Tailwind CSS v2.0 build:</h2><table><thead><tr><th>Class</th><th>Gray scale</th></tr></thead><tbody><tr><td>prose-gray (default)</td><td>Gray</td></tr><tr><td>prose-slate</td><td>Slate</td></tr><tr><td>prose-zinc</td><td>Zinc</td></tr><tr><td>prose-neutral</td><td>Neutral</td></tr><tr><td>prose-stone</td><td>Stone</td></tr></tbody></table><p>Modifier classes are designed to be used with the multi-class modifier pattern and must be used in conjunction with the base prose class.</p><p>Always include the <code>prose</code> class when adding a gray scale modifier</p><pre tabindex=0><code>&lt;article class=&#34;prose prose-stone&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><p>To learn about creating your own color themes, read the adding custom color themes documentation.
+​</p><h2 id=applying-a-type-scale>Applying a type scale</h2><p>Size modifiers allow you to adjust the overall size of your typography for different contexts.</p><pre tabindex=0><code>&lt;article class=&#34;prose prose-xl&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><h3 id=five-different-typography-sizes-are-included-out-of-the-box>Five different typography sizes are included out of the box:</h3><p>Class Body font size</p><table><thead><tr><th>prose-sm</th><th>Gray scale</th></tr></thead><tbody><tr><td>prose-gray (default)</td><td>0.875rem (14px)</td></tr><tr><td>prose-base (default)</td><td>1rem (16px)</td></tr><tr><td>prose-lg</td><td>1.125rem (18px)</td></tr><tr><td>prose-xl</td><td>1.25rem (20px)</td></tr><tr><td>prose-2xl</td><td>1.5rem (24px)</td></tr></tbody></table><p>These can be used in combination with Tailwind’s breakpoint modifiers to change the overall font size of a piece of content at different viewport sizes:</p><pre tabindex=0><code>&lt;article class=&#34;prose md:prose-lg lg:prose-xl&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><p>Everything about the provided size modifiers has been hand-tuned by professional designers to look as beautiful as possible, including the relationships between font sizes, heading spacing, code block padding, and more.</p><p>Size modifiers are designed to be used with the multi-class modifier pattern and must be used in conjunction with the base prose class.</p><p>Always include the <code>prose</code> class when adding a size modifier</p><pre tabindex=0><code>&lt;article class=&#34;prose prose-lg&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><p>To learn about customizing the included type scales, read the documentation on customizing the CSS.</p><h2 id=adapting-to-dark-mode>Adapting to dark mode</h2><p>Each default color theme includes a hand-designed dark mode version that you can trigger by adding the prose-invert class:</p><pre tabindex=0><code>&lt;article class=&#34;prose dark:prose-invert&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><p>To learn about creating your own color themes, read the adding custom color themes documentation.</p><p>​
+Element modifiers
+Use element modifiers to customize the style of individual elements in your content directly in your HTML:</p><pre tabindex=0><code>&lt;article class=&#34;prose prose-img:rounded-xl prose-headings:underline prose-a:text-blue-600&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><p>This makes it easy to do things like style links to match your brand, add a border radius to images, and tons more.</p><h3 id=heres-a-complete-list-of-available-element-modifiers>Here’s a complete list of available element modifiers:</h3><table><thead><tr><th>Modifier</th><th>Target</th></tr></thead><tbody><tr><td>prose-headings:{utility}</td><td>h1, h2, h3, h4, th</td></tr><tr><td>prose-lead:{utility}</td><td>[class~=&ldquo;lead&rdquo;]</td></tr><tr><td>prose-h1:{utility}</td><td>h1</td></tr><tr><td>prose-h2:{utility}</td><td>h2</td></tr><tr><td>prose-h3:{utility}</td><td>h3</td></tr><tr><td>prose-h4:{utility}</td><td>h4</td></tr><tr><td>prose-p:{utility}</td><td>p</td></tr><tr><td>prose-a:{utility}</td><td>a</td></tr><tr><td>prose-blockquote:{utility}</td><td>blockquote</td></tr><tr><td>prose-figure:{utility}</td><td>figure</td></tr><tr><td>prose-figcaption:{utility}</td><td>figcaption</td></tr><tr><td>prose-strong:{utility}</td><td>strong</td></tr><tr><td>prose-em:{utility}</td><td>em</td></tr><tr><td>prose-code:{utility}</td><td>code</td></tr><tr><td>prose-pre:{utility}</td><td>pre</td></tr><tr><td>prose-ol:{utility}</td><td>ol</td></tr><tr><td>prose-ul:{utility}</td><td>ul</td></tr><tr><td>prose-li:{utility}</td><td>li</td></tr><tr><td>prose-table:{utility}</td><td>table</td></tr><tr><td>prose-thead:{utility}</td><td>thead</td></tr><tr><td>prose-tr:{utility}</td><td>tr</td></tr><tr><td>prose-th:{utility}</td><td>th</td></tr><tr><td>prose-td:{utility}</td><td>td</td></tr><tr><td>prose-img:{utility}</td><td>img</td></tr><tr><td>prose-video:{utility}</td><td>video</td></tr><tr><td>prose-hr:{utility}</td><td>hr</td></tr></tbody></table><p>When stacking these modifiers with other modifiers like hover, you most likely want the other modifier to come first:</p><pre tabindex=0><code>&lt;article class=&#34;prose prose-a:text-blue-600 hover:prose-a:text-blue-500&#34;&gt;
+  {{ markdown }}
+&lt;/article&gt;
+</code></pre><h2 id=read-the-tailwind-css-documentation-on-ordering-stacked-modifiers-to-learn-more>Read the Tailwind CSS documentation on ordering stacked modifiers to learn more.</h2><p>​
+Overriding max-width
+Each size modifier comes with a baked in max-width designed to keep the content as readable as possible. This isn’t always what you want though, and sometimes you’ll want the content to just fill the width of its container.</p><p>In those cases, all you need to do is add max-w-none to your content to override the embedded max-width:</p><pre tabindex=0><code>&lt;div class=&#34;grid grid-cols-4&#34;&gt;
+  &lt;div class=&#34;col-span-1&#34;&gt;
+    &lt;!-- ... --&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-span-3&#34;&gt;
+    &lt;article class=&#34;prose max-w-none&#34;&gt;
+      {{ markdown }}
+    &lt;/article&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre><h2 id=advanced-topics>Advanced topics</h2><p>​
+Undoing typography styles
+If you have a block of markup embedded in some content that shouldn’t inherit the prose styles, use the not-prose class to sandbox it:</p><pre tabindex=0><code>&lt;article class=&#34;prose&#34;&gt;
+  &lt;h1&gt;My Heading&lt;/h1&gt;
+  &lt;p&gt;...&lt;/p&gt;
+
+  &lt;div class=&#34;not-prose&#34;&gt;
+    &lt;!-- Some example or demo that needs to be prose-free --&gt;
+  &lt;/div&gt;
+
+  &lt;p&gt;...&lt;/p&gt;
+  &lt;!-- ... --&gt;
+&lt;/article&gt;
+</code></pre><p>Note that you can’t nest new prose instances within a not-prose block at this time.
+​</p><h2 id=adding-custom-color-themes>Adding custom color themes</h2><p>You can create your own color theme by adding a new key in the typography section of your tailwind.config.js file and providing your colors under the css key:</p><pre tabindex=0><code>tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      typography: ({ theme }) =&gt; ({
+        pink: {
+          css: {
+            &#39;--tw-prose-body&#39;: theme(&#39;colors.pink[800]&#39;),
+            &#39;--tw-prose-headings&#39;: theme(&#39;colors.pink[900]&#39;),
+            &#39;--tw-prose-lead&#39;: theme(&#39;colors.pink[700]&#39;),
+            &#39;--tw-prose-links&#39;: theme(&#39;colors.pink[900]&#39;),
+            &#39;--tw-prose-bold&#39;: theme(&#39;colors.pink[900]&#39;),
+            &#39;--tw-prose-counters&#39;: theme(&#39;colors.pink[600]&#39;),
+            &#39;--tw-prose-bullets&#39;: theme(&#39;colors.pink[400]&#39;),
+            &#39;--tw-prose-hr&#39;: theme(&#39;colors.pink[300]&#39;),
+            &#39;--tw-prose-quotes&#39;: theme(&#39;colors.pink[900]&#39;),
+            &#39;--tw-prose-quote-borders&#39;: theme(&#39;colors.pink[300]&#39;),
+            &#39;--tw-prose-captions&#39;: theme(&#39;colors.pink[700]&#39;),
+            &#39;--tw-prose-code&#39;: theme(&#39;colors.pink[900]&#39;),
+            &#39;--tw-prose-pre-code&#39;: theme(&#39;colors.pink[100]&#39;),
+            &#39;--tw-prose-pre-bg&#39;: theme(&#39;colors.pink[900]&#39;),
+            &#39;--tw-prose-th-borders&#39;: theme(&#39;colors.pink[300]&#39;),
+            &#39;--tw-prose-td-borders&#39;: theme(&#39;colors.pink[200]&#39;),
+            &#39;--tw-prose-invert-body&#39;: theme(&#39;colors.pink[200]&#39;),
+            &#39;--tw-prose-invert-headings&#39;: theme(&#39;colors.white&#39;),
+            &#39;--tw-prose-invert-lead&#39;: theme(&#39;colors.pink[300]&#39;),
+            &#39;--tw-prose-invert-links&#39;: theme(&#39;colors.white&#39;),
+            &#39;--tw-prose-invert-bold&#39;: theme(&#39;colors.white&#39;),
+            &#39;--tw-prose-invert-counters&#39;: theme(&#39;colors.pink[400]&#39;),
+            &#39;--tw-prose-invert-bullets&#39;: theme(&#39;colors.pink[600]&#39;),
+            &#39;--tw-prose-invert-hr&#39;: theme(&#39;colors.pink[700]&#39;),
+            &#39;--tw-prose-invert-quotes&#39;: theme(&#39;colors.pink[100]&#39;),
+            &#39;--tw-prose-invert-quote-borders&#39;: theme(&#39;colors.pink[700]&#39;),
+            &#39;--tw-prose-invert-captions&#39;: theme(&#39;colors.pink[400]&#39;),
+            &#39;--tw-prose-invert-code&#39;: theme(&#39;colors.white&#39;),
+            &#39;--tw-prose-invert-pre-code&#39;: theme(&#39;colors.pink[300]&#39;),
+            &#39;--tw-prose-invert-pre-bg&#39;: &#39;rgb(0 0 0 / 50%)&#39;,
+            &#39;--tw-prose-invert-th-borders&#39;: theme(&#39;colors.pink[600]&#39;),
+            &#39;--tw-prose-invert-td-borders&#39;: theme(&#39;colors.pink[700]&#39;),
+          },
+        },
+      }),
+    },
+  },
+  plugins: [
+    require(&#39;@tailwindcss/typography&#39;),
+    // ...
+  ],
+}
+</code></pre><p>See our internal style definitions for some more examples.
+​</p><h2 id=changing-the-default-class-name>Changing the default class name</h2><p>If you need to use a class name other than prose for any reason, you can do so using the className option when registering the plugin:</p><pre tabindex=0><code>  tailwind.config.js
+  module.exports = {
+    theme: {
+      // ...
+    },
+    plugins: [
+      require(&#39;@tailwindcss/typography&#39;)({
+        className: &#39;wysiwyg&#39;,
+      }),
+    ]
+    ...
+  }
+</code></pre><p>Now every instance of prose in the default class names will be replaced by your custom class name:</p><pre tabindex=0><code>  &lt;article class=&#34;wysiwyg wysiwyg-slate lg:wysiwyg-xl&#34;&gt;
+    &lt;h1&gt;My Heading&lt;/h1&gt;
+    &lt;p&gt;...&lt;/p&gt;
+
+    &lt;div class=&#34;not-wysiwyg&#34;&gt;
+      &lt;!-- Some example or demo that needs to be prose-free --&gt;
+    &lt;/div&gt;
+
+    &lt;p&gt;...&lt;/p&gt;
+    &lt;!-- ... --&gt;
+  &lt;/article&gt;
+</code></pre><h2 id=customizing-the-css>Customizing the CSS</h2><p>If you want to customize the raw CSS generated by this plugin, add your overrides under the typography key in the theme section of your tailwind.config.js file:</p><pre tabindex=0><code>  tailwind.config.js
+  module.exports = {
+    theme: {
+      extend: {
+        typography: {
+          DEFAULT: {
+            css: {
+              color: &#39;#333&#39;,
+              a: {
+                color: &#39;#3182ce&#39;,
+                &#39;&amp;:hover&#39;: {
+                  color: &#39;#2c5282&#39;,
+                },
+              },
+            },
+          },
+        },
+      },
+    },
+    plugins: [
+      require(&#39;@tailwindcss/typography&#39;),
+      // ...
+    ],
+  }
+</code></pre><p>Like with all theme customizations in Tailwind, you can also define the typography key as a function if you need access to the theme helper:</p><pre tabindex=0><code>tailwind.config.js
+module.exports = {
+  theme: {
+    extend: {
+      typography: (theme) =&gt; ({
+        DEFAULT: {
+          css: {
+            color: theme(&#39;colors.gray.800&#39;),
+
+            // ...
+          },
+        },
+      }),
+    },
+  },
+  plugins: [
+    require(&#39;@tailwindcss/typography&#39;),
+    // ...
+  ],
+}
+</code></pre><p>Customizations should be applied to a specific modifier like DEFAULT or xl, and must be added under the css property. Customizations are authored in the same CSS-in-JS syntax used to write Tailwind plugins.</p><p>See the default styles for this plugin for more in-depth examples of configuring each modifier.</p></div></article><script defer src=https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js></script><script src=https://sherpasec.org/js/darkmode.js defer></script><footer class=bg-gray-900><div class="max-w-md px-4 py-12 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8"><nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label=Footer><div class="px-5 py-2"><a href=https://sherpasec.org/about/ class="text-base text-gray-400 hover:text-gray-300">About</a></div><div class="px-5 py-2"><a href=https://sherpasec.org/categories/past-events/ class="text-base text-gray-400 hover:text-gray-300">Past Events</a></div><div class="px-5 py-2"><a href=https://sherpasec.org/contact/ class="text-base text-gray-400 hover:text-gray-300">Contact</a></div></nav><div class="flex justify-center mt-8 space-x-6"><a href=https://twitter.com/sherpasecmy class="text-gray-400 hover:text-gray-300"><span class=sr-only>Twitter</span><svg class="w-6 h-6" fill="currentcolor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.29 20.251c7.547.0 11.675-6.253 11.675-11.675.0-.178.0-.355-.012-.53A8.348 8.348.0 0022 5.92a8.19 8.19.0 01-2.357.646 4.118 4.118.0 001.804-2.27 8.224 8.224.0 01-2.605.996 4.107 4.107.0 00-6.993 3.743A11.65 11.65.0 013.392 4.748a4.106 4.106.0 001.27 5.477A4.072 4.072.0 012.8 9.713v.052a4.105 4.105.0 003.292 4.022 4.095 4.095.0 01-1.853.07 4.108 4.108.0 003.834 2.85A8.233 8.233.0 012 18.407a11.616 11.616.0 006.29 1.84"/></svg></a></div><p class="mt-8 text-base text-center text-gray-400">&copy; 2024
+SherpaSec. All rights
+reserved.</p><p class="mt-2 text-base text-center text-gray-400">Made with &#x2764;&#xfe0f; by <a href=https://nusserstudios.com class="hover:underline hover:text-primary-600"><span class="font-black uppercase">Nusser</span> <span class="font-light uppercase">Studios.</span></a></p></div></footer></body></html>
