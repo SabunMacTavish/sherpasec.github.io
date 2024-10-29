@@ -79,9 +79,9 @@ params:
         image: "images/pages/IMG-20230713.jpg"
         alt: "SHwithEmil"
   p4:
-    heading: "Past Events"
+    heading: "Current / Past Events"
     content:
-      - text: "Our past events including meetups, workshops, and etc."
+      - text: "Our Current / past events including meetups, workshops, and etc."
   # p5:
   #   heading: "Stay Up to Date"
   #   content:
@@ -123,23 +123,31 @@ menu:
       pre: dropdown
       name: Categories
       weight: 30
-    # - identifier: dropdown
-    #   pre: complexdropdown
-    #   name: Dropdown
-    #   weight: 40
+    - identifier: sherpactf24
+      name: SherpaCTF 2024
+      url: sherpactf24/
+      weight: 35
     - identifier: contact
       pre: dropdown
       name: Contact
       weight: 40
+    # - identifier: dropdown
+    #   pre: complexdropdown
+    #   name: Dropdown
+    #   weight: 40
   categories:
     - identifier: past-events
       name: Past Events
       url: categories/past-events/
-      weight: 10
+      weight: 20
     - identifier: community-partners
       name: Community Partners
       url: community-partners
-      weight: 20
+      weight: 10
+    # - identifier: SherpaCTF 2024
+    #   name: SherpaCTF 2024
+    #   url: sherpactf-24/
+    #   weight: 30
   contact:
     - identifier: call-for-speakers
       name: Call for Speakers
