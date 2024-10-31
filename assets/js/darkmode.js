@@ -4,11 +4,11 @@ var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
 // Change the icons inside the button based on previous settings
 if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
     themeToggleLightIcon.classList.remove('hidden');
-    // Below one line are altered for SherpaCTF 2024 post
+    // Below one line are altered for SherpaCTF 2024 CTF post
     document.querySelectorAll('.sponsor-image-light').forEach(el => el.classList.add('hidden'));
 } else {
     themeToggleDarkIcon.classList.remove('hidden');
-    // Below one line are altered for SherpaCTF 2024 post
+    // Below one line are altered for SherpaCTF 2024 CTF post
     document.querySelectorAll('.sponsor-image-dark').forEach(el => el.classList.add('hidden'));
 }
 
