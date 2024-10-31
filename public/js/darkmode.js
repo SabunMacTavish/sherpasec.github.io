@@ -4,13 +4,17 @@
   var themeToggleLightIcon = document.getElementById("theme-toggle-light-icon");
   if (localStorage.getItem("color-theme") === "dark" || !("color-theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches) {
     themeToggleLightIcon.classList.remove("hidden");
+    document.querySelectorAll(".sponsor-image-light").forEach((el) => el.classList.add("hidden"));
   } else {
     themeToggleDarkIcon.classList.remove("hidden");
+    document.querySelectorAll(".sponsor-image-dark").forEach((el) => el.classList.add("hidden"));
   }
   var themeToggleBtn = document.getElementById("theme-toggle");
   themeToggleBtn.addEventListener("click", function() {
     themeToggleDarkIcon.classList.toggle("hidden");
     themeToggleLightIcon.classList.toggle("hidden");
+    document.querySelectorAll(".sponsor-image-dark").forEach((el) => el.classList.toggle("hidden"));
+    document.querySelectorAll(".sponsor-image-light").forEach((el) => el.classList.toggle("hidden"));
     if (localStorage.getItem("color-theme")) {
       if (localStorage.getItem("color-theme") === "light") {
         document.documentElement.classList.add("dark");
