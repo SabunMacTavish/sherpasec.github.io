@@ -81,7 +81,7 @@ params:
   p4:
     heading: "Current / Past Events"
     content:
-      - text: "Our Current / past events including meetups, workshops, and etc."
+      - text: "Our current / past events including meetups, workshops, and etc."
   # p5:
   #   heading: "Stay Up to Date"
   #   content:

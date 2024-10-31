@@ -61,8 +61,9 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 ---
 
 ## CTF Flow (Tentative)
-<div style="background: rgba(244, 244, 245, 1);">
-    <img src="/images/sherpactf/sherpactf-CTF_Flow.png" alt="Sponsors" style="width: auto; height: auto; object-fit: cover;">
+<div>
+    <img src="/images/sherpactf/agenda_black.png" class="sponsor-image-light" alt="event agenda" style="width: auto; height: auto; object-fit: cover;">
+    <img src="/images/sherpactf/agenda_white.png" class="sponsor-image-dark" alt="event agenda" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ---
@@ -77,23 +78,36 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 
 ## Our Sponsors
 <h3><span style="color: #FF5CAD"><b>Venue</b></span> Sponsor</h3>
-<div style="display: flex; justify-content: center; background: rgba(244, 244, 245, 1); margin-top: 0; margin-bottom: 0; border: 2px solid grey;">
-    <img src="/images/sherpactf/delltech-logo-stk-blue-rgb.png" alt="Dell" style="width: auto; height: 150px; object-fit: cover;">
+<div style="display: flex; justify-content: center;">
+    <img src="/images/sherpactf/delltech-logo-stk-blue-rgb.png" alt="Dell" class="sponsor-image-light" style="width: auto; height: 150px; object-fit: cover;">
+    <img src="/images/sherpactf/delltech-logo-stk-blue-wht.png" alt="Dell" class="sponsor-image-dark" style="width: auto; height: 150px; object-fit: cover;">
 </div>
 
 <h3><span style="color: #A5F3FC"><b>Platinum</b></span> Sponsor</h3>
-<div style="display: flex; justify-content: center; background: rgba(244, 244, 245, 1); margin-top: 0; margin-bottom: 0; border: 2px solid grey;">
-    <img src="/images/sherpactf/div0_black.png" alt="Div0" style="width: auto; height: 150px; object-fit: cover;">
+<div style="display: flex; justify-content: center;">
+    <img src="/images/sherpactf/div0_black.png" class="sponsor-image-light" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
+    <img src="/images/sherpactf/div0_white.png" class="sponsor-image-dark" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
 </div>
 
-<h3><span style="color: #FFD700">Benefit In-Kind</span> Sponsor</h3>
-<div style="display: flex; justify-content: center; align-items: center; background: rgba(244, 244, 245, 1); margin: 0; border: 2px solid grey;">
+<h3><span style="color: #FFF01F;"><b>Gold</b></span> Sponsor</h3>
+<div style="display: flex; justify-content: center;">
+    <img src="/images/sherpactf/ArmourZero_White.png" class="sponsor-image-light" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
+    <img src="/images/sherpactf/ArmourZero_Black.png" class="sponsor-image-dark" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
+</div>
+
+<h3><span style="color: #FFD700"><b>Benefit In-Kind</b></span> Sponsor</h3>
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="/images/sherpactf/OffSec_Tagline_Full_Color.png"
          alt="Offsec"
-         style="max-width: 100%; height: auto; object-fit: contain;">
+         class="sponsor-image-light"
+         style="max-width: 70%; height: auto; object-fit: contain;">
+    <img src="/images/sherpactf/OffSec_Tagline_White.png"
+         alt="Offsec"
+         class="sponsor-image-dark"
+         style="max-width: 70%; height: auto; object-fit: contain;">
 </div></br>
 
-<div style="display: flex; justify-content: center; background: rgba(244, 244, 245, 1); margin-top: 0; margin-bottom: 0; border: 2px solid grey;">
+<div style="display: flex; justify-content: center;">
     <img src="/images/sherpactf/nohats.png" alt="NoHats" style="width: auto; height: 150px; object-fit: cover;">
 </div></br>
 
@@ -130,8 +144,9 @@ SherpaSec offers **sponsorship packages** that provide companies with valuable *
 ---
 
 ## Sponsorship Benefits
-<div style="display: flex; justify-content: center; background: rgba(244, 244, 245, 1); margin-top: 0; margin-bottom: 0;">
-    <img src="/images/sherpactf/sherpactf-Sponsorship_Benefits.png" alt="Sponsors" style="width: auto; height: auto; object-fit: cover;">
+<div style="display: flex; justify-content: center; margin-top: 0; margin-bottom: 0;">
+    <img src="/images/sherpactf/sponsorship_black.png" class="sponsor-image-light" alt="Sponsorship Benefits" style="width: auto; height: auto; object-fit: cover;">
+    <img src="/images/sherpactf/sponsorship_white.png" class="sponsor-image-dark" alt="Sponsorship Benefits" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ---
