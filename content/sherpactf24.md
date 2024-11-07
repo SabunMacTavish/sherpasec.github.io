@@ -79,8 +79,8 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 ## Our Sponsors
 <h3><span style="color: #FF5CAD"><b>Venue</b></span> Sponsor</h3>
 <div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/delltech-logo-stk-blue-rgb.png" alt="Dell" class="sponsor-image-light" style="width: auto; height: 150px; object-fit: cover;">
-    <img src="/images/sherpactf/delltech-logo-stk-blue-wht.png" alt="Dell" class="sponsor-image-dark" style="width: auto; height: 150px; object-fit: cover;">
+    <img src="/images/sherpactf/delltech-logo-stk-blue-rgb.png" alt="Dell" class="sponsor-image-light" style="width: auto; height: 200px; object-fit: cover;">
+    <img src="/images/sherpactf/delltech-logo-stk-blue-wht.png" alt="Dell" class="sponsor-image-dark" style="width: auto; height: 200px; object-fit: cover;">
 </div>
 
 <h3><span style="color: #A5F3FC"><b>Platinum</b></span> Sponsor</h3>
@@ -89,10 +89,20 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
     <img src="/images/sherpactf/div0_white.png" class="sponsor-image-dark" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img src="/images/sherpactf/kotex_black.png"" class="sponsor-image-light" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
+    <img src="/images/sherpactf/kotex_white.png" class="sponsor-image-dark" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
+</div>
+
 <h3><span style="color: #FFF01F;"><b>Gold</b></span> Sponsor</h3>
 <div style="display: flex; justify-content: center;">
     <img src="/images/sherpactf/ArmourZero_White.png" class="sponsor-image-light" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
     <img src="/images/sherpactf/ArmourZero_Black.png" class="sponsor-image-dark" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="/images/sherpactf/moneylion-white.png" class="sponsor-image-dark" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
+    <img src="/images/sherpactf/moneylion-black.png" class="sponsor-image-light" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
 </div>
 
 <h3><span style="color: #FFD700"><b>Benefit In-Kind</b></span> Sponsor</h3>
@@ -100,15 +110,26 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
     <img src="/images/sherpactf/OffSec_Tagline_Full_Color.png"
          alt="Offsec"
          class="sponsor-image-light"
-         style="max-width: 70%; height: auto; object-fit: contain;">
+         style="max-width: 50%; height: auto; object-fit: contain;">
     <img src="/images/sherpactf/OffSec_Tagline_White.png"
          alt="Offsec"
          class="sponsor-image-dark"
-         style="max-width: 70%; height: auto; object-fit: contain;">
+         style="max-width: 50%; height: auto; object-fit: contain;">
 </div></br>
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/nohats.png" alt="NoHats" style="width: auto; height: 150px; object-fit: cover;">
+  <img src="/images/sherpactf/pentesterlab_logo_black.png" class="sponsor-image-light" alt="PentesterLab" style="max-width: 50%; height: 150px; object-fit: contain;">
+  <img src="/images/sherpactf/pentesterlab_logo_white.png" class="sponsor-image-dark" alt="PentesterLab" style="max-width: 50%; height: 150px; object-fit: contain;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+    <img src="/images/sherpactf/n0h4ts-logo-white.png" alt="NoHats" class="sponsor-image-dark" style="width: auto; height: 150px; object-fit: cover;">
+    <img src="/images/sherpactf/n0h4ts-logo-black.png" alt="NoHats" class="sponsor-image-light" style="width: auto; height: 150px; object-fit: cover;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/sherpactf/verdesec_green.png" alt="VerdeSec" class="sponsor-image-light" style="width: auto; height: 150px; object-fit: cover;">
+  <img src="/images/sherpactf/verdesec_white.png" alt="VerdeSec" class="sponsor-image-dark" style="width: auto; height: 150px; object-fit: cover;">
 </div></br>
 
 ---
