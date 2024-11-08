@@ -90,19 +90,19 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/kotex_black.png"" class="sponsor-image-light" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
-    <img src="/images/sherpactf/kotex_white.png" class="sponsor-image-dark" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
+    <img src="/images/sherpactf/Kotex Master Logo_Gradient_AW.png" class="sponsor-image-light" alt="Kotex" style="max-width: 50%; height: 200px; object-fit: contain;">
+    <img src="/images/sherpactf/Kotex Master Logo_Gradient_Negative.png" class="sponsor-image-dark" alt="Kotex" style="max-width: 50%; height: 200px; object-fit: contain;">
 </div>
 
 <h3><span style="color: #FFF01F;"><b>Gold</b></span> Sponsor</h3>
 <div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/ArmourZero_White.png" class="sponsor-image-light" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
-    <img src="/images/sherpactf/ArmourZero_Black.png" class="sponsor-image-dark" alt="Div0" style="width: auto; height: 200px; object-fit: cover;">
+    <img src="/images/sherpactf/ArmourZero_White.png" class="sponsor-image-light" alt="ArmourZero" style="width: auto; height: 200px; object-fit: cover;">
+    <img src="/images/sherpactf/ArmourZero_Black.png" class="sponsor-image-dark" alt="ArmourZero" style="width: auto; height: 200px; object-fit: cover;">
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/moneylion-white.png" class="sponsor-image-dark" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
-    <img src="/images/sherpactf/moneylion-black.png" class="sponsor-image-light" alt="Div0" style="max-width: 50%; height: 200px; object-fit: contain;">
+    <img src="/images/sherpactf/MoneyLion_Logo_RGB_Vertical_Outline_White.png" class="sponsor-image-dark" alt="MoneyLion" style="max-width: 50%; height: 200px; object-fit: contain;">
+    <img src="/images/sherpactf/MoneyLion_Logo_RGB_Vertical_Solid_Teal.png" class="sponsor-image-light" alt="MoneyLion" style="max-width: 50%; height: 200px; object-fit: contain;">
 </div>
 
 <h3><span style="color: #FFD700"><b>Benefit In-Kind</b></span> Sponsor</h3>
