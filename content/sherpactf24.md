@@ -79,8 +79,8 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 ## Our Sponsors
 <h3><span style="color: #FF5CAD"><b>Venue</b></span> Sponsor</h3>
 <div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/delltech-logo-stk-blue-rgb.png" alt="Dell" class="sponsor-image-light" style="width: auto; height: 200px; object-fit: cover;">
-    <img src="/images/sherpactf/delltech-logo-stk-blue-wht.png" alt="Dell" class="sponsor-image-dark" style="width: auto; height: 200px; object-fit: cover;">
+    <img src="/images/sherpactf/delltech-logo-stk-blue-rgb.png" alt="Dell" class="sponsor-image-light" style="max-width: auto; height: 150px; object-fit: cover;">
+    <img src="/images/sherpactf/delltech-logo-stk-blue-wht.png" alt="Dell" class="sponsor-image-dark" style="max-width: auto; height: 150px; object-fit: cover;">
 </div>
 
 <h3><span style="color: #A5F3FC"><b>Platinum</b></span> Sponsor</h3>
@@ -110,11 +110,11 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
     <img src="/images/sherpactf/OffSec_Tagline_Full_Color.png"
          alt="Offsec"
          class="sponsor-image-light"
-         style="max-width: 50%; height: auto; object-fit: contain;">
+         style="max-width: 50%; height: 150px; object-fit: contain;">
     <img src="/images/sherpactf/OffSec_Tagline_White.png"
          alt="Offsec"
          class="sponsor-image-dark"
-         style="max-width: 50%; height: auto; object-fit: contain;">
+         style="max-width: 50%; height: 150px; object-fit: contain;">
 </div></br>
 
 <div style="display: flex; justify-content: center;">
@@ -123,13 +123,13 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/n0h4ts-logo-white.png" alt="NoHats" class="sponsor-image-dark" style="width: auto; height: 150px; object-fit: cover;">
-    <img src="/images/sherpactf/n0h4ts-logo-black.png" alt="NoHats" class="sponsor-image-light" style="width: auto; height: 150px; object-fit: cover;">
+    <img src="/images/sherpactf/n0h4ts-logo-white.png" alt="NoHats" class="sponsor-image-dark" style="max-width: 50%; height: 150px; object-fit: cover;">
+    <img src="/images/sherpactf/n0h4ts-logo-black.png" alt="NoHats" class="sponsor-image-light" style="max-width: 50%; height: 150px; object-fit: cover;">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/sherpactf/verdesec_green.png" alt="VerdeSec" class="sponsor-image-light" style="width: auto; height: 150px; object-fit: cover;">
-  <img src="/images/sherpactf/verdesec_white.png" alt="VerdeSec" class="sponsor-image-dark" style="width: auto; height: 150px; object-fit: cover;">
+  <img src="/images/sherpactf/verdesec_green.png" alt="VerdeSec" class="sponsor-image-light" style="max-width: 50%; height: 150px; object-fit: cover;">
+  <img src="/images/sherpactf/verdesec_white.png" alt="VerdeSec" class="sponsor-image-dark" style="max-width: 50%; height: 150px; object-fit: cover;">
 </div></br>
 
 ---
