@@ -97,7 +97,7 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 <h3><span style="color: #FFF01F;"><b>Gold</b></span> Sponsor</h3>
 <div style="display: flex; justify-content: center; items-center">
     <img src="/images/sherpactf/ArmourZero_Black.png" class="sponsor-image-light" alt="ArmourZero" style="max-width: 52%; height: 30%; object-fit: cover;">
-    <img src="/images/sherpactf/ArmourZero_White    .png" class="sponsor-image-dark" alt="ArmourZero" style="max-width: 52%; height: 30%; object-fit: cover;">
+    <img src="/images/sherpactf/ArmourZero_White.png" class="sponsor-image-dark" alt="ArmourZero" style="max-width: 52%; height: 30%; object-fit: cover;">
 </div>
 
 <div style="display: flex; justify-content: center; items-center">
