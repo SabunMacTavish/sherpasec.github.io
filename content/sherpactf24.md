@@ -78,35 +78,35 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
 
 ## Our Sponsors
 <h3><span style="color: #FF5CAD"><b>Venue</b></span> Sponsor</h3>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; items-center">
     <img src="/images/sherpactf/delltech-logo-stk-blue-rgb.png" alt="Dell" class="sponsor-image-light" style="max-width: 50%; height: 50%; object-fit: cover;">
     <img src="/images/sherpactf/delltech-logo-stk-blue-wht.png" alt="Dell" class="sponsor-image-dark" style="max-width: 50%; height: 50%; object-fit: cover;">
 </div>
 
 <h3><span style="color: #A5F3FC"><b>Platinum</b></span> Sponsor</h3>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; items-center">
     <img src="/images/sherpactf/div0_black.png" class="sponsor-image-light" alt="Div0" style="width: 50%; height: 30%; object-fit: cover;">
     <img src="/images/sherpactf/div0_white.png" class="sponsor-image-dark" alt="Div0" style="width: 50%; height: 30%; object-fit: cover;">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; items-center">
     <img src="/images/sherpactf/Kotex Master Logo_Gradient_AW.png" class="sponsor-image-light" alt="Kotex" style="max-width: 50%; height: 30%; object-fit: contain;">
     <img src="/images/sherpactf/Kotex Master Logo_Gradient_Negative.png" class="sponsor-image-dark" alt="Kotex" style="max-width: 50%; height: 30%; object-fit: contain;">
 </div>
 
 <h3><span style="color: #FFF01F;"><b>Gold</b></span> Sponsor</h3>
-<div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/ArmourZero_White.png" class="sponsor-image-light" alt="ArmourZero" style="max-width: 70%; height: 30%; object-fit: cover;">
-    <img src="/images/sherpactf/ArmourZero_Black.png" class="sponsor-image-dark" alt="ArmourZero" style="max-width: 70%; height: 30%; object-fit: cover;">
+<div style="display: flex; justify-content: center; items-center">
+    <img src="/images/sherpactf/ArmourZero_Black.png" class="sponsor-image-light" alt="ArmourZero" style="max-width: 52%; height: 30%; object-fit: cover;">
+    <img src="/images/sherpactf/ArmourZero_White    .png" class="sponsor-image-dark" alt="ArmourZero" style="max-width: 52%; height: 30%; object-fit: cover;">
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <img src="/images/sherpactf/MoneyLion_Logo_RGB_Vertical_Outline_White.png" class="sponsor-image-dark" alt="MoneyLion" style="max-width: 60%; height: 30%; object-fit: contain;">
-    <img src="/images/sherpactf/MoneyLion_Logo_RGB_Vertical_Solid_Teal.png" class="sponsor-image-light" alt="MoneyLion" style="max-width: 60%; height: 30%; object-fit: contain;">
+<div style="display: flex; justify-content: center; items-center">
+    <img src="/images/sherpactf/MoneyLion_Logo_RGB_Vertical_Outline_White.png" class="sponsor-image-dark my-0" alt="MoneyLion" style="max-width: 55%; height: 30%; object-fit: contain;">
+    <img src="/images/sherpactf/MoneyLion_Logo_RGB_Vertical_Solid_Teal.png" class="sponsor-image-light my-0" alt="MoneyLion" style="max-width: 55%; height: 30%; object-fit: contain;">
 </div>
 
 <h3><span style="color: #FFD700"><b>Benefit In-Kind</b></span> Sponsor</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; items-center">
     <img src="/images/sherpactf/OffSec_Tagline_Full_Color.png"
          alt="Offsec"
          class="sponsor-image-light"
@@ -117,17 +117,17 @@ Unlike traditional CTFs, SherpaCTF introduces elements of **presentation and com
          style="max-width: 50%; height: 150px; object-fit: contain;">
 </div></br>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; items-center">
   <img src="/images/sherpactf/pentesterlab_logo_black.png" class="sponsor-image-light" alt="PentesterLab" style="max-width: 50%; height: 30%; object-fit: contain;">
   <img src="/images/sherpactf/pentesterlab_logo_white.png" class="sponsor-image-dark" alt="PentesterLab" style="max-width: 50%; height: 30%; object-fit: contain;">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; items-center">
     <img src="/images/sherpactf/n0h4ts-logo-white.png" alt="NoHats" class="sponsor-image-dark" style="max-width: 30%; height: 30%; object-fit: cover;">
     <img src="/images/sherpactf/n0h4ts-logo-black.png" alt="NoHats" class="sponsor-image-light" style="max-width: 30%; height: 30%; object-fit: cover;">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; items-center">
   <img src="/images/sherpactf/verdesec_green.png" alt="VerdeSec" class="sponsor-image-light" style="max-width: 30%; height: 30%; object-fit: cover;">
   <img src="/images/sherpactf/verdesec_white.png" alt="VerdeSec" class="sponsor-image-dark" style="max-width: 30%; height: 30%; object-fit: cover;">
 </div></br>
