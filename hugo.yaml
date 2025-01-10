@@ -123,10 +123,10 @@ menu:
       pre: dropdown
       name: Categories
       weight: 30
-    - identifier: sherpactf24
-      name: SherpaCTF 2024
-      url: sherpactf24/
-      weight: 35
+    # - identifier: sherpactf24
+    #   name: SherpaCTF 2024
+    #   url: sherpactf24/
+    #   weight: 35
     - identifier: contact
       pre: dropdown
       name: Contact
