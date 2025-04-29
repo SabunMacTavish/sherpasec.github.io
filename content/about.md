@@ -7,7 +7,7 @@ description: About Us
 featured_image: ../assets/images/featured/SHERPASEC_BANNER.png
 ---
 
-Persatuan Keselamatan Siber Teknologi Malaysia: PPM-015-16-08102018
+Persatuan Keselamatan Siber Teknologi Malaysia: PPM-001-04-02022024
 
 We started as a small group of like-minded individuals, driven by a shared passion for learning and collaboration. Over time, our community has grown, welcoming new members who share our vision for creating a space where knowledge flows freely and opportunities for growth abound.
 
