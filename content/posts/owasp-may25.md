@@ -9,7 +9,9 @@ description: 'SherpaSec is teaming up with OWASP Malaysia for a May meet-up feat
 author: SherpaSec
 authorimage: ../assets/images/global/SherpaSec_Logo.png
 categories: Past Events
-tags: Past Events
+tags:
+    - Past Events
+    - OWASP
 ---
 
 SherpaSec teamed up with OWASP Malaysia for a May meetup that brought together cybersecurity professionals, researchers, and students for a focused session on the evolving landscape of AI security. The event featured expert talks from F5 and Kaspersky, covering critical topics tied to the secure deployment and forensic analysis of AI systems.

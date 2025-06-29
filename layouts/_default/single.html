@@ -1,9 +1,16 @@
 {{define "main"}}
 <article>
-  <header class="mb-4 bg-primary-600">
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script>
+    particlesJS.load('particles-js', '/particlesjs-config.json', function () {
+      console.log('callback - particles.js config loaded');
+    });
+  </script>
+  <header class="relative mb-4 bg-primary-600">
+    <div id="particles-js" class="absolute inset-0"></div>
     <span class="py-96">
       <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
-        {{ .Title }}
+          {{ .Title}}
       </h1>
     </span>
   </header>

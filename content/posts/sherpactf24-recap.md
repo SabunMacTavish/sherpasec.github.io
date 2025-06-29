@@ -9,7 +9,9 @@ description: 'SherpaCTF 2024 was a 24-hour Jeopardy-style CTF with a Hackathon t
 author: SherpaSec
 authorimage: ../assets/images/global/SherpaSec_Logo.png
 categories: Past Events
-tags: Past Events
+tags:
+    - Past Events
+    - SherpaCTF
 ---
 
 SherpaSec hosted SherpaCTF 2024, a Jeopardy-style Capture the Flag (CTF) competition with a unique Hackathon twist, from November 23-24, 2024, at the Dell Global Business Center in Cyberjaya, Malaysia. The event brought together Malaysia's brightest cybersecurity minds for 24 hours of intense problem-solving, challenges, and innovative presentations. It aimed to unite cybersecurity professionals and students from across the country, identify top talent for international competitions, provide sponsors with direct access to these talents, and contribute to the growth of Malaysia's cybersecurity community.

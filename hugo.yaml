@@ -119,31 +119,56 @@ menu:
       name: About
       url: about/
       weight: 20
+    - identifier: sherpactf
+      name: SherpaCTF
+      url: sherpactf/
+      weight: 30
+    - identifier: gcc
+      name: Global Cybersecurity Camp
+      url: gcc/
+      weight: 40
+    - identifier: supported_ctfs_conferences
+      pre: dropdown
+      name: Supported CTFs & Conferences
+      weight: 50
     - identifier: categories
       pre: dropdown
       name: Categories
-      weight: 30
-    # - identifier: sherpactf24
-    #   name: SherpaCTF 2024
-    #   url: sherpactf24/
-    #   weight: 35
+      weight: 60
     - identifier: contact
       pre: dropdown
       name: Contact
-      weight: 40
+      weight: 70
     # - identifier: dropdown
     #   pre: complexdropdown
     #   name: Dropdown
     #   weight: 40
+  supported_ctfs_conferences:
+    - identifier: supported-ctfs
+      name: Supported CTFs
+      url: supported_ctfs_conferences/supported-ctfs
+      weight: 20
+    - identifier: supported-conferences
+      name: Supported Conferences
+      url: supported_ctfs_conferences/supported-conferences
+      weight: 30
   categories:
     - identifier: past-events
       name: Past Events
       url: categories/past-events/
       weight: 20
+    # - identifier: sponsored-local-ctf-teams
+    #   name: Sponsored CTF Team
+    #   url: sponsored-local-ctf-teams
+    #   weight: 15
+    # - identifier: supported-ctfs-conferences
+    #   name: Supported CTFs & Conferences
+    #   url: supported-ctfs-conferences
+    #   weight: 10
     - identifier: community-partners
       name: Community Partners
       url: community-partners
-      weight: 10
+      weight: 5
     # - identifier: SherpaCTF 2024
     #   name: SherpaCTF 2024
     #   url: sherpactf-24/

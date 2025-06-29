@@ -2615,11 +2615,6 @@ video {
   margin-right: auto;
 }
 
-.my-0 {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
 .my-16 {
   margin-top: 4rem;
   margin-bottom: 4rem;
@@ -3075,7 +3070,7 @@ video {
 
 .bg-primary-600 {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(26 36 48 / var(--tw-bg-opacity));
 }
 
 .bg-transparent {
@@ -3408,7 +3403,7 @@ video {
 
 .text-primary-600 {
   --tw-text-opacity: 1;
-  color: rgb(48 52 236 / var(--tw-text-opacity));
+  color: rgb(26 36 48 / var(--tw-text-opacity));
 }
 
 .text-primary-900 {
@@ -4112,7 +4107,7 @@ EmojiSymbols;
 
 .hover\:bg-primary-600:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(26 36 48 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-primary-800:hover {
@@ -4132,7 +4127,7 @@ EmojiSymbols;
 
 .hover\:text-primary-600:hover {
   --tw-text-opacity: 1;
-  color: rgb(48 52 236 / var(--tw-text-opacity));
+  color: rgb(26 36 48 / var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
@@ -4155,7 +4150,7 @@ EmojiSymbols;
 
 .focus\:bg-primary-600:focus {
   --tw-bg-opacity: 1;
-  background-color: rgb(48 52 236 / var(--tw-bg-opacity));
+  background-color: rgb(26 36 48 / var(--tw-bg-opacity));
 }
 
 .focus\:bg-primary-700:focus {
