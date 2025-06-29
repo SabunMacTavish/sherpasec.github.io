@@ -1,6 +1,6 @@
 ---
 title: "OWASP Meetup - May 2025"
-date: 2025-04-18
+date: 2025-05-28
 draft: false
 language: en
 featured_image: ../assets/images/featured/owasp_may25.jpg
