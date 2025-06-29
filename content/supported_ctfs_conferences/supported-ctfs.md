@@ -23,7 +23,7 @@ SherpaSec is proud to have brought a qualified team to compete in the Advanced C
 - [Teng Zheng](https://tzion0.github.io/ctf/hacktheon-journey/)
 - [Zhiren](https://www.linkedin.com/posts/sherpasec_activity-7213583374420967424-WV0X?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)
 
-# [MATRIX CUP](https://web.archive.org/web/20240514095142/https://matrixcup.net/page/race/home/)
+# [Matrix Cup](https://web.archive.org/web/20240514095142/https://matrixcup.net/page/race/home/)
 The Matrix Cup, launched in May 2024 in Qingdao, Shandong Province, is one of China's most high-profile cybersecurity competitions, positioned as one of the largest in the Eastern Hemisphere. Organized by 360 Digital Security Group and Beijing Huayunan Information Technology Co. (VUL.AI), this competition brings together key players from both academia and the private sector in China, making it a major event for cybersecurity professionals globally, attracting top talent and fostering innovation in the field.
 
 SherpaSec is honored to have sponsored a team to compete in this competition. Below is their blog post sharing their experiences and insights from the event:
