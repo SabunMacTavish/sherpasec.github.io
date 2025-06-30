@@ -40,12 +40,12 @@ SherpaSec has proudly supported and sponsored the GCC event from 2020 through to
 - Yen Wai
 
 ### 2022
-- [Chi Siang](https://choochisiang.gitbook.io/report/)
+- Chi Siang
 - Genjiz
 - Kah Pooi
 - s3ns3
 - Shiau Huei
-- [Teng Zheng](https://tzion0.github.io/)
+- Teng Zheng
 
 ### 2021
 - [Ali Radzali](https://h0j3n.medium.com/global-cybersecurity-camp-gcc-online-2021-dded7f29ccbe)
