@@ -17,4 +17,4 @@ SherpaCTF is a Jeopardy-style Capture the Flag (CTF) competition with a unique H
 
 In 2024, SherpaCTF was successfully held at the Dell Global Business Center in Cyberjaya, Malaysia, attracting hundreds of enthusiastic participants from the cybersecurity community.
 
-For more details on past SherpaCTF recap, please take a look at [here](http://localhost:1313/tags/sherpactf/).
+For more details on past SherpaCTF recap, please take a look at [here](https://sherpasec.org/tags/sherpactf/).
