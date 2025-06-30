@@ -7,8 +7,8 @@ description: "The Global Cybersecurity Camp (GCC) is a week-long annual internat
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="/images/gcc/gcc_banner.png" class="sponsor-image-light" alt="event agenda" style="width: 50%; height: auto; object-fit: cover;">
-    <img src="/images/gcc/gcc_banner.png" class="sponsor-image-dark" alt="event agenda" style="width: 50%; height: auto; object-fit: cover;">
+    <img src="/images/gcc/gcc_banner.png" class="sponsor-image-light" alt="GCC Banner" style="width: auto; height: auto; object-fit: cover;">
+    <img src="/images/gcc/gcc_banner.png" class="sponsor-image-dark" alt="GCC Banner" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 # Global Cybersecurity Camp (GCC)
