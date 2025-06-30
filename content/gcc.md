@@ -7,8 +7,8 @@ description: "The Global Cybersecurity Camp (GCC) is a week-long annual internat
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="/images/gcc/gcc_logo_colored.png" class="sponsor-image-light" alt="event agenda" style="width: 50%; height: auto; object-fit: cover;">
-    <img src="/images/gcc/gcc_logo_colored.png" class="sponsor-image-dark" alt="event agenda" style="width: 50%; height: auto; object-fit: cover;">
+    <img src="/images/gcc/gcc_banner.png" class="sponsor-image-light" alt="event agenda" style="width: 50%; height: auto; object-fit: cover;">
+    <img src="/images/gcc/gcc_banner.png" class="sponsor-image-dark" alt="event agenda" style="width: 50%; height: auto; object-fit: cover;">
 </div>
 
 # Global Cybersecurity Camp (GCC)
@@ -25,30 +25,30 @@ SherpaSec has proudly supported and sponsored the GCC event from 2020 through to
 - [Shunsuke](https://solaris0141.github.io/blogs/21-02-2025-GCC2025-Taiwan/21-02-2025-GCC2025-Taiwan.html)
 
 ### 2024
-- [Danish]()
+- Danish
 - [Firdaus](https://vicevirus.github.io/posts/gcc-2024/)
-- [Jia Qi]()
-- [Roheender]()
+- Jia Qi
+- Roheender
 - [Zhi Ren](https://zhirenliew.github.io/posts/gcc24/)
 
 ### 2023
-- [Abbie]()
-- [Aniq]()
-- [Fatah]()
-- [Ee Yang]()
+- Abbie
+- Aniq
+- Fatah
+- Ee Yang
 - [Twinkle](https://hannrul.medium.com/recap-2023-part-1-33b6ca4e5268)
-- [Yen Wai]()
+- Yen Wai
 
 ### 2022
 - [Chi Siang](https://choochisiang.gitbook.io/report/)
-- [Genjiz]()
-- [Kah Pooi]()
-- [s3ns3]()
-- [Shiau Huei]()
+- Genjiz
+- Kah Pooi
+- s3ns3
+- Shiau Huei
 - [Teng Zheng](https://tzion0.github.io/)
 
 ### 2021
 - [Ali Radzali](https://h0j3n.medium.com/global-cybersecurity-camp-gcc-online-2021-dded7f29ccbe)
 - [Ezaly Iman](https://ezaly-iman.medium.com/gcc-global-cybersecurity-camp-2021-experience-191c6a062225)
-- [Hong Wei]()
-- [Yik Han]()
+- Hong Wei
+- Yik Han

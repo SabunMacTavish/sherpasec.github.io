@@ -3564,6 +3564,22 @@ EmojiSymbols;
   color: white !important;
 }
 
+/** SherpaSec Font**/
+
+@font-face {
+  font-family: 'conthrax-sb';
+
+  src: url('/fonts/conthrax-sb.otf') format('opentype');
+
+  font-weight: normal;
+
+  font-style: normal;
+}
+
+.conthrax-sb-font {
+  font-family: 'conthrax-sb', sans-serif;
+}
+
 /* Custom CSS end */
 
 :is(.dark .dark\:prose-invert) {
